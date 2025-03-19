@@ -8,9 +8,10 @@
 [![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:octaviopinoross@gmail.com)
 
 
-👋 ¡Hola! Soy Octavio Pino Rosas, ingeniero mecatrónico con experiencia en análisis de datos, automatización y robotica. Estoy aprendiendo en Oracle - ONE Proyecto en alianza con Alura Latam.
-🚜 Actualmente, trabajo como Technical Communicator en Gimtrac - John Deere, gestionando información técnica para optimizar el soporte y mantenimiento de maquinaria.  
-📊 También estoy interesado en desarrollar soluciones en Data Science y Full-Stack para automatización de procesos y análisis de datos.  
+👋 ¡Hola! Soy Octavio Pino Rosas, ingeniero mecatrónico con experiencia en análisis de datos, automatización y robotica.  
+🚀 Actualmente estoy participando en el programa **Oracle One Next Education** en alianza con **Alura Latam**   
+🚜 Trabajo como Technical Communicator en Gimtrac - John Deere, gestionando y analizando información técnica para optimizar el soporte y mantenimiento de maquinaria.  
+📊 También estoy interesado en desarrollar soluciones en Data Science y Full-Stack. 
 
 
 ### 📱 Tecnologías
@@ -23,8 +24,6 @@
 ![Python](https://img.shields.io/badge/Python-%20-green) 
 
 ---
-
-Herramientas de analisis de datos
 
 📊 Data Science
 
