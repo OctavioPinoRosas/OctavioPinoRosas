@@ -13,6 +13,41 @@
 📊 También estoy interesado en desarrollar soluciones en Data Science y Full-Stack para automatización de procesos y análisis de datos.  
 
 
+### 📱 Tecnologías
+
+📋 Lenguajes:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%20-yellow)
+![HTML](https://img.shields.io/badge/HTML5-%20-orange)
+![CSS](https://img.shields.io/badge/CSS3-%20-blue)
+![Python](https://img.shields.io/badge/Python-%20-green) 
+
+---
+
+Herramientas de analisis de datos
+
+📊 Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-%20-red)
+![NumPy](https://img.shields.io/badge/NumPy-%20-blue)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-%20-yellow)
+![Excel](https://img.shields.io/badge/Excel-%20-green)
+
+---
+
+🕗 Control de versiones:
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+☁ Hosting:
+
+![GitHub](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+
+## Contactame
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octavio-pino-rosas)  
+📧 octaviopinoross@gmail.com  
 <!--
 **OctavioPinoRosas/OctavioPinoRosas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
