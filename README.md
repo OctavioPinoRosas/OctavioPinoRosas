@@ -45,6 +45,15 @@ Herramientas de analisis de datos
 
 ![GitHub](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
+**Otras tecnologias**
+
+![ROS2](https://img.shields.io/badge/ROS2-%20-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-%20-blue)
+
+---
+
 ## Contactame
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octavio-pino-rosas)  
 📧 octaviopinoross@gmail.com  
